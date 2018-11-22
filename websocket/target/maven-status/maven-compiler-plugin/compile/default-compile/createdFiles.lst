@@ -1,0 +1,4 @@
+com\inhand\cn\IndexController.class
+com\inhand\cn\HandshakeInterceptor.class
+com\inhand\cn\WebSocketConfig.class
+com\inhand\cn\WebSocketEndPoint.class
